@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://www.uhdpaper.com/2023/02/oshi-no-ko-ai-hoshino-ruby-4k-4771k.html?m=0"  />
+  <img height="150" src=""  />
 </div>
 
 ###
