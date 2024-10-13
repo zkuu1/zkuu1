@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src=""  />
+  <img height="150" src="https://www.uhdpaper.com/assets/uhdpaper.com-4k-oshi-no-ko-ai-hoshino-ruby-4771k-300x533.jpg" alt="Oshi no Ko Ai Hoshino Ruby" />
 </div>
 
 ###
@@ -72,5 +72,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=zkuu1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
