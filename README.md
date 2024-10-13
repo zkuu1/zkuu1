@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="150" src="https://www.uhdpaper.com/assets/uhdpaper.com-4k-oshi-no-ko-ai-hoshino-ruby-4771k-300x533.jpg" alt="Oshi no Ko Ai Hoshino Ruby" />
+ <img height="150" src="./image.png"  />
+
 </div>
 
 ###
