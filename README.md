@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">I'm Zakaria Aka Zkuu from Semarang , Indonesia<br>Interest about back-end and just a rookie prograammer!<br><br>- 🔭 I’m studying at SMKN 8 Semarang<br>- 📚 I'm currently learning Mobile Development Game<br>- ⚡ In my free time I playing some game and watching anime</p>
+<p align="left">I'm Zakaria Aka Zkuu from Semarang , Indonesia<br>Interest about back-end and just a rookie programmer!<br><br>- 🔭 I’m studying at SMKN 8 Semarang<br>- 📚 I'm currently learning Mobile Development Game<br>- ⚡ In my free time I playing some story game and watching anime</p>
 
 ###
 
