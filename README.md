@@ -28,9 +28,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ###
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=zkuu1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 ###
