@@ -1,4 +1,4 @@
-<h1 align="center">こんにちは👋 I'm Zkuuu!</h1>
+<h1 align="center">こんにちは👋 I'm Zkuuu! </h1>
 
 
 
@@ -9,7 +9,7 @@
 ###
 
 # 💫 About Me:
-💻 Mostly In Backend!<br>- 🔭  I’m studying at SMKN 8 Semarang<br>- 📚 I'm currently learning Tech Next JS & Unity<br>- 🧐 I'm currently learning Software Photoshop & After Effect<br>- ⚡ Also Maybe Design graph
+💻 Mostly In Backend!<br>- 🔭  I’m studying at SMKN 8 Semarang<br>- 📚 I'm currently learning Tech Next JS & Unity<br>- 🧐 I'm currently learning Software Photoshop & After Effect<br>- ⚡ Also Design graphic
 
 
 ## 🌐 Socials:
