@@ -1,4 +1,4 @@
-<h1 align="center">こんにちは👋 I'm Zkuuuii!   </h1>
+<h1 align="center">こんにちは👋 I'm Zkuuiii!   </h1>
 
 
 <div align="center">
