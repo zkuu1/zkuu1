@@ -2,7 +2,9 @@
 
 
 <div align="center">
-  <img height="100%" width="100%" src="./miyamoto.jpeg"  />
+  <a href="https://git.io/typing-svg">
+        <img src="https://raw.githubusercontent.com/zkuu1/zkuu1/refs/heads/main/taiga.gif" alt="atomic" />
+    </a>
 </div>
 
 ###
