@@ -10,7 +10,7 @@
 ###
 
 # 💫 About Me:
-💻 Backend & Game Developer Enthusiast !<br>- 🔭  I’m studying at SMKN 8 Semarang<br>- 📚 I'm currently learning Tech Next JS & Unity<br>- 🧐 I'm currently learning Software Photoshop & After Effect<br>- ⚡ Also Design graphic
+💻 Backend & Game Developer Enthusiast !<br>- 🔭  I’m studying at SMKN 8 Semarang<br>- 📚 I'm currently learning Tech Next JS, Hono And Elysia <br>- 🧐 I'm good at graphic design<br>- ⚡ Also Design graphic
 
 
 ## 🌐 Socials:
