@@ -1,4 +1,4 @@
-<h1 align="center">こんにちは👋 I'm Zkuuii   </h1>
+<h1 align="center">こんにちは👋 I'm Zkuu   </h1>
 
 
 <div align="center">
@@ -10,7 +10,7 @@
 ###
 
 # 💫 About Me:
-💻 Backend & Game Developer Enthusiast !<br>- 🔭  I’m studying at SMKN 8 Semarang<br>- 📚 I'm currently learning Tech Next JS, Hono And Elysia <br>- 🧐 I'm good at graphic design<br>- ⚡ Nocturnal Person
+ -💻  Backend & Game Developer Enthusiast !<br>- 🔭  I’m studying at SMKN 8 Semarang<br>- 📚 I'm currently learning Tech Next JS, Hono And Elysia <br>- 🧐 I'm good at graphic design<br>- ⚡ Nocturnal Person
 
 
 ## 🌐 Socials:
@@ -29,10 +29,106 @@
 [![](https://visitcount.itsvg.in/api?id=zkuu&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-###
   <img src="https://streak-stats.demolab.com?user=zkuu1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 
-###
+<h3 align="">Hello World! </h3>
+
+```typescript
+const profile = {
+  name: "Zakaria Akmal Pasha",
+  bio: "Junior Back-end Developer",
+  currentWork: "Try to make awesome projects",
+  learning: "Learning Hono Js, Golang, Docker, And Redis",
+  interests: "Open-source cotribution,Graphic Designer Commision And RESTFUL API Project",
+  skills: [
+    "Node.js",
+    "Express",
+    "Redis",
+    "PostgreSQL",
+    "MySQL",
+    "MongoDB",
+    "Laravel"
+  ],
+}
+```
+
+## 👀 Visitor Count
+
+<!-- ⚠️ Important: Replace 'zkuu1' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/zkuu1/count.svg" />
+  <br>Thank you for visiting my profile! Come back soon!
+</p>
+
+## 🏆 GitHub Trophies
+
+<!-- ⚠️ Important: Replace 'zkuu1' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zkuu1&theme=onedark&column=7&margin-w=15&margin-h=15" />
+</p>
+
+## 📊 GitHub Stats
+
+<!-- ⚠️ Important: Replace 'zkuu1' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zkuu1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
+
+## 🔝 Most Used Languages
+
+<!-- ⚠️ Important: Replace 'zkuu1' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zkuu1&layout=compact&langs_count=10&theme=dark"/>
+</div>
+
+## 🔥 Contribution Streak
+
+<!-- ⚠️ Important: Replace 'zkuu1' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zkuu1&theme=dark&hide_border=false" />
+</div>
+
+## 💻 Currently Use
+
+```json
+{
+  "backend": [
+    "Node.js",
+    "Express",
+    "Redis",
+    "PostgreSQL",
+    "MySQL",
+    "MongoDB",
+  ],
+}
+```
+
+## 🌐 Socials
+
+```javascript
+const socials = {
+  github: "zkuu1",
+}
+```
+
+<div>
+<a href="https://github.com/zkuu1"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> 
+</div>
+
+## 📫 How to reach me
+
+```javascript
+const contact = {
+  email: "zakariaakmalpashaa@gmail.com",
+}
+```
+
+```typescript
+// Thanks for visiting my profile!
+console.log("Let's connect and collaborate on exciting projects!");
+
+process.exit(0); // Until next time 👋
+```
+
 
 ###
