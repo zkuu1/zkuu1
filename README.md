@@ -14,7 +14,9 @@
 </h4>
 
 <div>
-  <img src="zephyr.jfif" width="150px"/> 
+  <img src="zephyr.jfif" width="100px"/> 
+  <img src="love.png" width="100px"/>
+  <img src="cartethyia.jfif" width="110px"/>
 </div>
 
 
