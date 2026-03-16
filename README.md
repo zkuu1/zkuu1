@@ -8,10 +8,15 @@
 
 ###
 
-<h3>
-I love about programming, machine learning, game development and graphic design ||
-<a href="https://zkuu.site" style="color:#ff4d6d;">click here to see my porto :3</a>
-</h3>
+<h4>
+ ☕︎ I love about programming, machine learning, game development and graphic design ||
+<a href="https://zkuu.site" style="color:#ff4d6d;">click here to see my porto (˶˃ ᵕ ˂˶)</a>
+</h4>
+
+<div>
+  <img src="zephyr.jfif" width="150px"/> 
+</div>
+
 
 
 ## 🌐 Socials:
@@ -104,18 +109,6 @@ const profile = {
   ],
 }
 ```
-
-## 🌐 Socials
-
-```javascript
-const socials = {
-  github: "zkuu1",
-}
-```
-
-<div>
-<a href="https://github.com/zkuu1"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> 
-</div>
 
 ## 📫 How to reach me
 
