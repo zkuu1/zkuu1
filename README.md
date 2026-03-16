@@ -8,8 +8,10 @@
 
 ###
 
-# 💫 About Me:
- -💻  Backend & Game Developer Enthusiast !<br>- 🔭  I’m studying at SMKN 8 Semarang<br>- 📚 I'm currently learning Tech Next JS, Hono And Elysia <br>- 🧐 I'm good at graphic design<br>- ⚡ Nocturnal Person
+<h3>
+I love about programming, machine learning, game development and graphic design ||
+<a href="https://zkuu.site" style="color:#ff4d6d;">click here to see my porto :3</a>
+</h3>
 
 
 ## 🌐 Socials:
