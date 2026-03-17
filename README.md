@@ -12,16 +12,19 @@
  ☕︎ I love about programming, machine learning, game development and graphic design ||
 <a href="https://zkuu.site" style="color:#ff4d6d;">click here to see my porto (˶˃ ᵕ ˂˶)</a>
 </h4>
+<h4>
+    <a>୨ৎ My Beloved Cartethyia >ᴗ<</a>
+</h4>
 
-<div>
+<div class="">
   <img src="zephyr.jfif" width="100px"/> 
   <img src="love.png" width="100px"/>
   <img src="cartethyia.jfif" width="110px"/>
 </div>
 
 
+</div>
 
-## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Zkuu#1404) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ds.zkuu) 
 
 # 💻 Tech Stack:
