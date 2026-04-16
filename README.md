@@ -12,7 +12,7 @@
 <a href="https://zkuu.site" style="color:#ff4d6d;">click here to see my porto (˶˃ ᵕ ˂˶)</a>
 </h4>
 <h4>
-    <a>୨ৎ My Beloved Cartethyia >ᴗ<</a>
+    <a>୨ৎ My Beloved Cartethyia >ᴗ< </a>
 </h4>
 
 <div class="">
